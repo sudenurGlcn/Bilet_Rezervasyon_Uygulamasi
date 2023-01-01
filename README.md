@@ -1,5 +1,5 @@
 # Bilet Rezervasyon Uygulamasi
-### Python da dönem projesi olarak yaptığım bu projede kullanıcıdan alınan kategori ve bilet sayısına göre koltuk yerleri ayrılıyor. Ayrılan koltuklar dosyaya yazılırak tutulmuş oluyor. Bu projede yapabileceğiniz birkaç seçim var.
+### Python'da dönem projesi olarak yaptığım bu projede kullanıcıdan alınan kategori ve bilet sayısına göre koltuk yerleri ayrılıyor. Ayrılan koltuklar dosyaya yazılırak tutulmuş oluyor. Bu projede yapabileceğiniz birkaç seçim var.
 
 <b>1.Rezervasyon Yapma</b><br>
  Bu seçenekte kategori ve bilet sayısı belirterek eğer yeterli sayıda bilet varsa bilet sayısı kadar koltuğu rezerve etmiş oluyorsunuz. Dolan koltuklar "X" ile temsil edilirken boş koltuklar "-" ile temsil ediliyor. Seçim yapılan kategoriye göre fiyatlandırma da yapılıyor.<br>
